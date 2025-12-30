@@ -1,0 +1,8 @@
+{
+  "name": "Video Factory AI",
+  "description": "A professional AI-powered video generation studio built with Gemini 3 Pro and Veo models. Create cinematic content from text and image prompts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
